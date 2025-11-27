@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="tr">
 <head>
   <meta charset="utf-8" />
@@ -254,3 +253,4 @@
 </script>
 </body>
 </html>
+
